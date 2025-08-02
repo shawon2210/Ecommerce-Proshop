@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f5f5f5"/>
+  <rect x="70" y="40" width="60" height="120" rx="5" fill="#333"/>
+  <rect x="75" y="50" width="50" height="90" fill="#6af"/>
+  <circle cx="100" cy="150" r="5" fill="#fff"/>
+  <rect x="85" y="45" width="30" height="3" rx="1" fill="#555"/>
+  <text x="100" y="180" font-family="Arial" font-size="12" text-anchor="middle">Premium Smartphone</text>
+</svg>

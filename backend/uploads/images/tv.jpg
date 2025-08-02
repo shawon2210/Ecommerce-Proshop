@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f5f5f5"/>
+  <rect x="40" y="60" width="120" height="80" rx="2" fill="#333"/>
+  <rect x="45" y="65" width="110" height="70" fill="#6af"/>
+  <rect x="80" y="140" width="40" height="10" fill="#555"/>
+  <rect x="70" y="150" width="60" height="5" fill="#555"/>
+  <text x="100" y="180" font-family="Arial" font-size="12" text-anchor="middle">Ultra HD Smart TV</text>
+</svg>
